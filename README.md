@@ -1,5 +1,7 @@
 # Icon_dataset
 
+This is the object classification dataset for recognizing icon categories on the UI of mobile phones, especially for Harmony OS. 
+
 # ICON_SEMANTICS
 
 | Key | Semantic |
