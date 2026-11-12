@@ -1,6 +1,7 @@
 # Icon_dataset
 
 This is the object classification dataset for recognizing icon categories on the UI of mobile phones, especially for Harmony OS. 
+Every class contains 60~150 images covering varying shapes and appearances. 
 
 # Icon semantics map
 
